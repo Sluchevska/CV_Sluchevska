@@ -32,7 +32,7 @@ body {
   padding-left: 90px;
   padding-right: 90px;
   padding-bottom: 110px;
-  padding-top: 110px;
+  padding-top: 50px;
 }
 .contacts {
   margin-top: 60px;
@@ -59,52 +59,43 @@ body {
   color: white;
   margin-right: 10px;
 }
-.techskilltitles {
-  font-size: 22px;
-  font-weight: 700;
-  line-height: 24px;
-  margin-bottom: 20px;
-  color: white;
-}
-.techskilscontainer {
+
+.techskilscontainer,
+.softskillcontainer,
+.langcontainer {
   margin-left: 40px;
   margin-right: 40px;
   margin-top: 55px;
 }
-.techskitem {
+.techskitem,
+.softskitem,
+.langitem {
   font-size: 14px;
   font-weight: 400;
 
   line-height: 24px;
-  margin-left: 15spx;
+  margin-left: 15px;
   color: #ff6b08;
 }
 .techsktext {
   color: #d8dadd;
 }
-.softskilstitles {
+.techskilltitles,
+.softskilstitles,
+.langtitles {
   color: #ffffff;
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
   line-height: 24px;
 }
-.softskillcontainer {
-  margin-left: 40px;
-  margin-right: 40px;
-  margin-top: 55px;
-}
-.softskitem {
-  color: #ff6b08;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 24px;
-}
-.softtext {
+
+.softtext,
+.langtext {
   color: #ffffff;
 }
 .profession {
-  font-size: 14px;
+  font-size: 25px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 23px;
