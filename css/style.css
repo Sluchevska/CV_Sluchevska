@@ -172,15 +172,16 @@ body {
   line-height: 24px;
 }
 .education-name {
-  color: #ff6b08;
+  /* color: #ff6b08; */
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
 }
 .educ-spec {
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 24px;
+  margin-bottom: 15px;
 }
 .educ-container {
   margin-top: 55px;
