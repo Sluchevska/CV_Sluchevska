@@ -185,3 +185,8 @@ body {
 .educ-container {
   margin-top: 55px;
 }
+.address {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #829dca;
+}
